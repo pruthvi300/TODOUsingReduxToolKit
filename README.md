@@ -1,3 +1,4 @@
+![Screenshot from 2025-03-28 02-29-13](https://github.com/user-attachments/assets/b6367676-c6e8-4056-8615-9382abc0fccc)
 # To-Do App with Redux Toolkit ✅
 
 A simple and efficient To-Do application built with React and Redux Toolkit for state management.
