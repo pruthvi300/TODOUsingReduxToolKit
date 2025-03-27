@@ -14,11 +14,12 @@ A simple and efficient To-Do application built with React and Redux Toolkit for 
 - Tailwind CSS (for styling)
 
 ## Installation 📥
-```sh
+```
 git clone https://github.com/pruthvi300/TODOUsingReduxToolKit
 cd app
 npm install
 npm start
+```
 Then, open http://localhost:3000 in your browser.
 
 Usage 📌
